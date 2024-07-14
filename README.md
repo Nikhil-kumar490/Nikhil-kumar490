@@ -35,9 +35,9 @@ In my academic journey so far, I have completed various coursework in computer p
 
 
 <br><br>
-
+## My Stats 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Nikhil-kumar490" />
-## My Stats :chart_with_upwards_trend:
+
 
 
