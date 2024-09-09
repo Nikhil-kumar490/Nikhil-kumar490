@@ -39,6 +39,8 @@ In my academic journey so far, I have completed various coursework in computer p
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&layout=compact" alt="Nikhil-kumar490" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&locale=en" alt="Nikhil-kumar490" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-kumar490&" alt="Nikhil-kumar490" /></p>
 
 
 
