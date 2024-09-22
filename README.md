@@ -30,17 +30,17 @@ In my academic journey so far, I have completed various coursework in computer p
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-kumar-sahu-798ab2277/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
-</p><br><br><br>
+<a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
+</p><br><br>
 
-📊 Stats
+### 📊 Stats
+<br><br>
 
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="harsh0166" />
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&theme=gruvbox)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&layout=compact" alt="Nikhil-kumar490" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&locale=en" alt="Nikhil-kumar490" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-kumar490&" alt="Nikhil-kumar490" /></p>
+ ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-kumar490&theme=gruvbox&border_radius=4.5)
 
 
 
