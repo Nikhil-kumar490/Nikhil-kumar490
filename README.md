@@ -6,6 +6,9 @@
 Hi, I am Nikhil Kumar, a B.Tech Computer Science student at Sarala Birla University Ranchi. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
 In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms, and database management systems. Additionally, I have undertaken several projects, including developing a web-based application for online shopping and creating a mobile application for event management.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman5062&label=Profile%20views&color=0e75b6&style=flat" alt="aman5062" /> </p>
+
    <p align="left">
       <a href="https://github.com/Nikhil-kumar490?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nikhil-kumar490?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
