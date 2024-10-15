@@ -7,7 +7,7 @@ Hi, I am Nikhil Kumar, a B.Tech Computer Science student at Sarala Birla Univers
 In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms, and database management systems. Additionally, I have undertaken several projects, including developing a web-based application for online shopping and creating a mobile application for event management.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman5062&label=Profile%20views&color=0e75b6&style=flat" alt="aman5062" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-kumar490" /> </p>
 
    <p align="left">
       <a href="https://github.com/Nikhil-kumar490?tab=repositories&sort=stargazers">
