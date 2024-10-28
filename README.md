@@ -39,7 +39,7 @@ In my academic journey so far, I have completed various coursework in computer p
 ### 📊 Stats
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="harsh0166" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="harsh0166" /><br>
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&theme=gruvbox)
 
