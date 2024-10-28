@@ -34,7 +34,7 @@ In my academic journey so far, I have completed various coursework in computer p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
-</p><br><br>
+</p><br>
 
 ### 📊 Stats
 <br>
