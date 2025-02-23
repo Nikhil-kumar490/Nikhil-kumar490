@@ -1,62 +1,76 @@
+# 🚀 Nikhil Kumar 
 
-# 👨‍💻 Nikhil-kumar490 
+**`Website Developer | Tech Enthusiast | Open Source Contributor`**
 
-**`Website Developer`**
+Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla University, Ranchi**. Passionate about **software development, web technologies, and open-source contributions**, I am constantly honing my skills and working on exciting projects.
 
-Hi, I am Nikhil Kumar, a B.Tech Computer Science student at Sarala Birla University Ranchi. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
-In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms, and database management systems. Additionally, I have undertaken several projects, including developing a web-based application for online shopping and creating a mobile application for event management.
+### 🌟 About Me
+- 🎓 B.Tech in **Computer Science**
+- 💻 Passionate about **Web Development** and **Software Engineering**
+- 🚀 Active in **Open Source Contributions**
+- 🛠️ Skilled in ** C , C++, JavaScript, MySQL, PHP, Java, Python**
+- ⚡ **Problem-Solver** | **Tech Enthusiast**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-kumar490" /> </p>
-
-   <!-- <p align="left">
-      <a href="https://github.com/Nikhil-kumar490?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nikhil-kumar490?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ---
 
-### 🧰 Languages and Tools
+## 🛠️ Tech Stack & Tools
 
+### 🚀 Languages:
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- 
+### 🛠️ Tools :
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Code Editors](https://img.shields.io/badge/Code%20Editors-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Debuggers](https://img.shields.io/badge/Debuggers-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-<br><br>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
-</p><br>
+<a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
+</a>
+</p>
 
-# Badges:
+---
 
-# Hacktoberfest 2024
+## 🏆 Badges & Achievements
+### 🎉 Hacktoberfest 2024
+[![Holopin Badges](https://holopin.me/nikhilkumar490)](https://holopin.io/@nikhilkumar490)
 
-[![An image of @nikhilkumar490's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilkumar490)](https://holopin.io/@nikhilkumar490)
+---
 
-<br><br>
+## 📊 GitHub Stats
 
+<table>
+<tr>
+<td>
+ <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&theme=gruvbox" />
+</td>
+<td>
+ <img src="https://streak-stats.demolab.com?user=Nikhil-kumar490&theme=gruvbox&border_radius=4.5" />
+</td>
+</tr>
+</table>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Top Languages" />
 
-### 📊 Stats
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-kumar490&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="harsh0166"/>
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-kumar490&show_icons=true&theme=gruvbox)
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-kumar490&theme=gruvbox&border_radius=4.5)
-
-
-
+---
 
 
