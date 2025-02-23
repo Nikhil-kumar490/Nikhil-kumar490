@@ -48,8 +48,10 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
-</a>
+</a>  
+📧 Email: 1259nikhil@gmail.com  
 </p>
+
 
 ---
 
