@@ -9,10 +9,10 @@ In my academic journey so far, I have completed various coursework in computer p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-kumar490" /> </p>
 
-   <p align="left">
+   <!-- <p align="left">
       <a href="https://github.com/Nikhil-kumar490?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nikhil-kumar490?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
@@ -31,6 +31,14 @@ In my academic journey so far, I have completed various coursework in computer p
  
 
 <br><br>
+
+# Badges:
+
+<b>Hacktoberfest 2024</b>
+
+[![An image of @nikhilkumar490 Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@nikhilkumar490#badges)](https://holopin.io/@nikhilkumar490)
+<br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-kumar-798ab2277" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
