@@ -34,9 +34,10 @@ In my academic journey so far, I have completed various coursework in computer p
 
 # Badges:
 
-<b>Hacktoberfest 2024</b>
+# Hacktoberfest 2024
 
-[![An image of @nikhilkumar490 Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@nikhilkumar490)](https://holopin.io/@nikhilkumar490)
+[![An image of @nikhilkumar490's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilkumar490)](https://holopin.io/@nikhilkumar490)
+
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
