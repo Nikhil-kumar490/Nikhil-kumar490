@@ -8,7 +8,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 - 🎓 B.Tech in **Computer Science**
 - 💻 Passionate about **Web Development** and **Software Engineering**
 - 🚀 Active in **Open Source Contributions**
-- 🛠️ Skilled in ** C , C++, JavaScript, MySQL, PHP, Java, Python**
+- 🛠️ Skilled in **C , C++, JavaScript, MySQL, PHP, Java, Python**
 - ⚡ **Problem-Solver** | **Tech Enthusiast**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
