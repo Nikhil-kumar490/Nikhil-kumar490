@@ -36,7 +36,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%230000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23F7DF1E.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Code Editors](https://img.shields.io/badge/Code%20Editors-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
