@@ -8,7 +8,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 - 🎓 B.Tech in **Computer Science**
 - 💻 Passionate about **Web Development** and **Software Engineering**
 - 🚀 Active in **Open Source Contributions**
-- 🛠️ Skilled in **C , C++, JavaScript, MySQL, PHP, XML ,Java, Python**
+- 🛠️ Skilled in **C , C++, JavaScript, MySQL, PHP, XML,Java, Python**
 - ⚡ **Problem-Solver** | **Tech Enthusiast**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
@@ -24,9 +24,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![XML](https://img.shields.io/badge/XML-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![XML](https://img.shields.io/badge/XML-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
