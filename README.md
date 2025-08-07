@@ -1,6 +1,6 @@
 # 🚀 Nikhil Kumar 
 
-**`Website Developer | Tech Enthusiast | Open Source Contributor`**
+**`Website Developer | Android App Developer | Open Source Contributor`**
 
 Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla University, Ranchi**. Passionate about **software development, web technologies, and open-source contributions**, I am constantly honing my skills and working on exciting projects.
 
@@ -9,7 +9,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 - 💻 Passionate about **Web Development** and **Android App Development**
 - 🚀 Active in **Open Source Contributions**
 - 🛠️ Skilled in **C , C++, HTML, CSS,JavaScript, MySQL, PHP, XML,Java, Python**
-- ⚡ **Problem-Solver** | **Tech Enthusiast**
+- ⚡ **Problem-Solver** 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil-kumar490&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
