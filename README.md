@@ -59,7 +59,6 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 ## 🏆 Badges & Achievements
 ### 🎉 Hacktoberfest 2024
 [![Holopin Badges](https://holopin.me/nikhilkumar490)](https://holopin.io/@nikhilkumar490)
-
 ---
 
 ## 📊 GitHub Stats
