@@ -34,7 +34,7 @@ Hi, I'm Nikhil Kumar, a **B.Tech Computer Science** student at **Sarala Birla Un
 ![Turbo C++](https://img.shields.io/badge/Turbo%20C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![xampp server](https://img.shields.io/badge/PyCharm-%23F3.svg?style=for-the-badge&logo=xamppserver&logoColor=white)
+![xampp server](https://img.shields.io/badge/xamppserver-%23F3.svg?style=for-the-badge&logo=xamppserver&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23F3.svg?style=for-the-badge&logo=pycharm&logoColor=white)
